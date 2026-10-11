@@ -1,0 +1,160 @@
+{
+  "page": 1,
+  "month": "Sep 2026",
+  "rows": [
+    {
+      "date": "01/09",
+      "grn": 4401,
+      "supplier": "Qasr Pkg",
+      "item": "Cartons 5-ply",
+      "lot": "L2609-001",
+      "qty": 2000,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "01/09",
+      "grn": 4402,
+      "supplier": "Taraz Poly",
+      "item": "Polybags 12x16",
+      "lot": "L2609-002",
+      "qty": 25000,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "02/09",
+      "grn": 4403,
+      "supplier": "Zarnab Chem",
+      "item": "Caustic soda flakes",
+      "lot": "L2609-003",
+      "qty": 50,
+      "unit": "bags",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "03/09",
+      "grn": 4404,
+      "supplier": "Rehbar Threads",
+      "item": "Thread cones 40/2",
+      "lot": "L2609-004",
+      "qty": 600,
+      "unit": "cones",
+      "received_by": "S.A.",
+      "flags": []
+    },
+    {
+      "date": "04/09",
+      "grn": 4405,
+      "supplier": "Saahil Pallets",
+      "item": "Wooden pallets",
+      "lot": "L2609-005",
+      "qty": 120,
+      "unit": "pcs",
+      "received_by": "S.A.",
+      "flags": []
+    },
+    {
+      "date": "05/09",
+      "grn": 4406,
+      "supplier": "Nayab Labels",
+      "item": "Woven labels",
+      "lot": "L2609-006",
+      "qty": 10000,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "07/09",
+      "grn": 4407,
+      "supplier": "Qasr Pkg",
+      "item": "Cartons 3-ply",
+      "lot": "L2609-007",
+      "qty": 1500,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "07/09",
+      "grn": 4408,
+      "supplier": "Zarnab Chem",
+      "item": "H2O2 50%",
+      "lot": "L2609-008",
+      "qty": 40,
+      "unit": "drums",
+      "received_by": "S.A.",
+      "flags": []
+    },
+    {
+      "date": "08/09",
+      "grn": 4409,
+      "supplier": "Taraz Poly",
+      "item": "Stretch film",
+      "lot": "L2609-009",
+      "qty": 80,
+      "unit": "rolls",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "09/09",
+      "grn": 4410,
+      "supplier": "Rehbar Threads",
+      "item": "Thread cones 20/2",
+      "lot": "L2609-010",
+      "qty": 450,
+      "unit": "cones",
+      "received_by": "S.A.",
+      "flags": []
+    },
+    {
+      "date": "10/09",
+      "grn": 4411,
+      "supplier": "Qasr Pkg",
+      "item": "Cartons 5-ply",
+      "lot": "L2609-011",
+      "qty": 1800,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "11/09",
+      "grn": 4412,
+      "supplier": "Saahil Pallets",
+      "item": "Wooden pallets",
+      "lot": "L2609-012",
+      "qty": 90,
+      "unit": "pcs",
+      "received_by": "S.A.",
+      "flags": []
+    },
+    {
+      "date": "11/09",
+      "grn": 4413,
+      "supplier": "Nayab Labels",
+      "item": "Care labels",
+      "lot": "L2609-013",
+      "qty": 15000,
+      "unit": "pcs",
+      "received_by": "B.H.",
+      "flags": []
+    },
+    {
+      "date": "12/09",
+      "grn": 4414,
+      "supplier": "Zarnab Chem",
+      "item": "Soda ash",
+      "lot": "L2609-014",
+      "qty": 30,
+      "unit": "bags",
+      "received_by": "S.A.",
+      "flags": []
+    }
+  ]
+}
